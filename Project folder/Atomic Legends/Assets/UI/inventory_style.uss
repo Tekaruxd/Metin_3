@@ -1,0 +1,57 @@
+.main-container {
+    flex-direction: row;
+    width: 100%;
+    height: 100%;
+}
+
+.equipment-container {
+    width: 30%;
+    background-color: rgba(51, 51, 51, 0.9);
+    padding: 2%;
+}
+
+.inventory-wrapper {
+    width: 70%;
+    background-color: rgba(38, 38, 38, 0.9);
+    padding: 2%;
+}
+
+.inventory-container {
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 100%;
+}
+
+.money-panel {
+    background-color: rgba(77, 77, 77, 0.9);
+    padding: 1%;
+    margin-bottom: 2%;
+}
+
+.money-label {
+    color: rgb(255, 255, 0);
+    font-size: 120%;
+}
+
+.inventory-slot {
+    align-items: center;
+    justify-content: center;
+}
+
+.inner-slot {
+    width: 90%;
+    height: 90%;
+    background-color: rgb(77, 77, 77);
+    margin: 5%;
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+}
+
+.inner-slot:hover {
+    background-color: rgb(102, 102, 102);
+}
+
+.text {
+    -unity-font-definition: url("project://database/Assets/Fonts/gang_of_three/go3v2.ttf?fileID=12800000&guid=5b49e0b62d38c0b42a614fc05561135b&type=3#go3v2");
+}

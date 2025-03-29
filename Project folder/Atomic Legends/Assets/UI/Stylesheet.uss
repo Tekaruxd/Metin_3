@@ -1,0 +1,21 @@
+.button {
+    width: 180px;
+    height: 90px;
+    -unity-font-definition: url("project://database/Assets/Fonts/gang_of_three/go3v2.ttf?fileID=12800000&guid=5b49e0b62d38c0b42a614fc05561135b&type=3#go3v2");
+}
+
+.item {
+    background-image: none;
+    background-color: rgb(161, 159, 159);
+    width: auto;
+    height: auto;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    margin-top: 1%;
+    margin-right: 1%;
+    margin-bottom: 1%;
+    margin-left: 1%;
+    flex-direction: row;
+}

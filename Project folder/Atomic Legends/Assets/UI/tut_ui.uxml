@@ -1,0 +1,7 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/start_style.uss?fileID=7433441132597879392&amp;guid=d3e32862228b6d94899246e1d47cbb4a&amp;type=3#start_style" />
+    <engine:VisualElement name="tutorial-container" style="flex-grow: 1; opacity: 1; background-color: rgba(0, 0, 0, 0); background-image: none; background-size: 50.5% 91%; align-items: stretch; align-self: flex-start; left: 5%;">
+        <engine:Label text="Tutorial" class="Text" style="top: auto; width: auto; height: auto; -unity-text-align: middle-left; margin-top: 20%; margin-right: 4%; margin-bottom: 20%; margin-left: 4%;" />
+        <engine:Label text="Pohyb: WSAD&#10;Skok: SPACE&#10;Útok: Left mouse&#10;Schopnosti: 1 a 2&#10;Inventář: I&#10;Menu: Esc&#10;Zpět do menu: T" name="Label" class="Text Text_tut" style="-unity-text-align: middle-left; height: 50%; width: auto; text-overflow: ellipsis; background-position-x: center 0; margin-top: 4%; margin-right: 4%; margin-bottom: 4%; margin-left: 4%;" />
+    </engine:VisualElement>
+</engine:UXML>

@@ -1,0 +1,15 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/Stylesheet.uss?fileID=7433441132597879392&amp;guid=cccfc8b4ae8766c43b9ba14d7e7e5ad7&amp;type=3#Stylesheet" />
+    <ui:VisualElement style="flex-grow: 1;">
+        <ui:VisualElement name="menu" style="flex-grow: 1; height: 731px; left: 0;">
+            <ui:Button text="Resume&#10;" name="resume" class="button" style="height: 7%; width: 10%; left: 45%; bottom: 50%; position: absolute; display: flex; visibility: visible; top: 35%; right: 45%;" />
+            <ui:Button text="Settings" name="settings" class="button" style="height: 7%; width: 10%; left: 45%; bottom: 40%; position: absolute; display: flex; visibility: visible; top: 45%; right: 45%;" />
+            <ui:Button text="Save&#10;" name="save" class="button" style="height: 7%; width: 10%; left: 45%; bottom: 40%; position: absolute; display: flex; visibility: visible; right: 45%; top: 55%;" />
+            <ui:Button text="Load&#10;" name="load" class="button" style="height: 7%; width: 10%; left: 45%; bottom: 30%; position: absolute; display: flex; visibility: visible; right: 45%; top: 65%;" />
+            <ui:Button text="Exit&#10;" name="exit" class="button" style="height: 7%; width: 10%; left: 45%; bottom: 20%; position: absolute; display: flex; visibility: visible; right: 47.5%; top: 75%;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+    <ui:VisualElement name="inventory" style="flex-grow: 1;">
+        <ui:VisualElement name="item" style="flex-grow: 1;" />
+    </ui:VisualElement>
+</ui:UXML>

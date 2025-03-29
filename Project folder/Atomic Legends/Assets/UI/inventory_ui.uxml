@@ -1,0 +1,14 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/inventory_style.uss?fileID=7433441132597879392&amp;guid=abcccff06326fc94798f750d6372a9c6&amp;type=3#inventory_style" />
+    <engine:VisualElement name="all-container" style="flex-grow: 1;">
+        <engine:VisualElement name="main-container" class="main-container">
+            <engine:VisualElement name="equipment-container" class="equipment-container" />
+            <engine:VisualElement name="inventory-wrapper" class="inventory-wrapper">
+                <engine:VisualElement name="inventory-container" class="inventory-container" />
+            </engine:VisualElement>
+        </engine:VisualElement>
+        <engine:VisualElement name="money-panel" class="money-panel text">
+            <engine:Label name="money-label" text="Peníze: 0" class="money-label" />
+        </engine:VisualElement>
+    </engine:VisualElement>
+</engine:UXML>

@@ -1,0 +1,12 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/test.uss?fileID=7433441132597879392&amp;guid=dd58ed550ef15604e8ae39fbd5df3c03&amp;type=3#test" />
+    <engine:VisualElement name="HUDContainer" class="hud-container">
+        <engine:Label name="PlayerName" text="Player" class="player-name" />
+        <engine:VisualElement class="bars-container">
+            <engine:ProgressBar name="HealthBar" class="progress-bar health-bar" />
+            <engine:ProgressBar name="ManaBar" class="progress-bar mana-bar" />
+            <engine:ProgressBar name="ExperienceBar" class="progress-bar experience-bar" />
+        </engine:VisualElement>
+        <engine:VisualElement name="SkillSlots" class="skill-slots" />
+    </engine:VisualElement>
+</engine:UXML>

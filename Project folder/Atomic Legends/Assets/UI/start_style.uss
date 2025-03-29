@@ -1,0 +1,41 @@
+.Text {
+    align-self: center;
+    justify-content: center;
+    -unity-font-style: bold;
+    font-size: 300%;
+    color: rgb(255, 255, 255);
+    -unity-text-align: middle-center;
+    -unity-text-outline-width: 2px;
+    min-width: 5%;
+    min-height: 5%;
+    -unity-text-outline-color: rgb(0, 0, 0);
+    text-shadow: 0 0 0 rgb(0, 0, 0);
+    letter-spacing: 0.1px;
+    word-spacing: 0;
+    -unity-paragraph-spacing: 58px;
+    -unity-font-definition: url("project://database/Assets/Fonts/gang_of_three/go3v2.ttf?fileID=12800000&guid=5b49e0b62d38c0b42a614fc05561135b&type=3#go3v2");
+    width: 40%;
+    height: auto;
+    display: flex;
+}
+
+.Text_tut {
+    align-self: center;
+    justify-content: center;
+    -unity-font-style: bold;
+    font-size: 150%;
+    color: rgb(255, 255, 255);
+    -unity-text-align: middle-center;
+    -unity-text-outline-width: 2px;
+    min-width: 5%;
+    min-height: 5%;
+    -unity-text-outline-color: rgb(0, 0, 0);
+    text-shadow: 0 0 0 rgb(0, 0, 0);
+    letter-spacing: 0.1px;
+    word-spacing: 0;
+    -unity-paragraph-spacing: 58px;
+    -unity-font-definition: url("project://database/Assets/Fonts/gang_of_three/go3v2.ttf?fileID=12800000&guid=5b49e0b62d38c0b42a614fc05561135b&type=3#go3v2");
+    width: 40%;
+    height: auto;
+    display: flex;
+}

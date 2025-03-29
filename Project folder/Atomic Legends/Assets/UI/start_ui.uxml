@@ -1,0 +1,8 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/start_style.uss?fileID=7433441132597879392&amp;guid=d3e32862228b6d94899246e1d47cbb4a&amp;type=3#start_style" />
+    <engine:VisualElement style="flex-grow: 1; justify-content: center;">
+        <engine:Label text="Start (Enter)" name="Start" class="Text" style="-unity-text-outline-width: 2px;" />
+        <engine:Label text="Tutorial (T)" name="Tutorial" class="Text" style="-unity-text-outline-width: 2px;" />
+        <engine:Label text="Exit (Esc)" name="Exit" class="Text" style="-unity-text-outline-width: 2px;" />
+    </engine:VisualElement>
+</engine:UXML>

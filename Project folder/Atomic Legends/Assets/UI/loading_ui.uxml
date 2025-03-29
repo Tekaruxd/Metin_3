@@ -1,0 +1,6 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <engine:VisualElement style="flex-grow: 1; align-items: center;">
+        <engine:VisualElement style="flex-grow: 1; background-image: url(&quot;project://database/Assets/Atomic_Legends_Logo.png?fileID=2800000&amp;guid=67cccaad25180ab49a70ed6612c57803&amp;type=3#Atomic_Legends_Logo&quot;); background-size: 100% 100%; background-color: rgba(0, 0, 0, 0); max-height: 80%; max-width: 80%; align-items: stretch; align-self: auto; width: 80%;" />
+        <engine:Label text="Loading...&#10;" style="-unity-font-definition: url(&quot;project://database/Assets/Fonts/gang_of_three/go3v2.ttf?fileID=12800000&amp;guid=5b49e0b62d38c0b42a614fc05561135b&amp;type=3#go3v2&quot;); font-size: 50%;" />
+    </engine:VisualElement>
+</engine:UXML>
