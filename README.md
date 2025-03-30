@@ -64,7 +64,7 @@ V rámci propagace jsme připravili bannery, které si můžete prohlédnout v [
 
 Prototypy i nejnovější verze jsou k dispozici ke stažení zdarma [zde](https://github.com/Tekaruxd/Metin_3/tree/main/Prototypes).  
 
-Pokud vás zajímá pouze náhled, můžete si prohlédnout snímky přímo ze hry [zde](https://github.com/Tekaruxd/Metin_3/tree/main/preview).  
+Pokud vás zajímá pouze náhled, můžete si prohlédnout snímky přímo ze hry [zde](https://github.com/Tekaruxd/Metin_3/tree/main/Preview).  
 
 ---
 
