@@ -1,64 +1,84 @@
-# Atomic Legends
-### 1.	Základní koncepce
-RPG hra zasazená do prostředí Šluknovského výběžku a inspirovaná hrami Metin 2 a Realm of the Mad God. Hra nabízí hráčům zážitek z boje s nestvůrami, postupné vylepšování postavy a prozkoumávání světa.
-Hrubý popis hry a její pointa
 
-Cíl:
-- Cílem hry je poskytnout hráčům RPG hru, kde hlavní zábavou bude boj, průzkum a vylepšování postavy, inspirované herními mechanismy z Metin 2. Hra se zaměřuje na hráče s preferencí RPG titulů, kteří si užijí bojový systém a postupné posilování postavy. Hra je navržena pro PC platformu, což je vhodné pro zamýšlenou hloubku hratelnosti.
+# Atomic Legends  
 
-Žánr a zaměření:
+### 1. Základní koncepce  
 
-- Hra spadá do žánru RPG, zaměřeného na boj, objevování a rozvoj postavy. Herní prostředí je inspirováno Šluknovským výběžkem a bude zahrnovat postavy, které hráči připomenou jejich učitele. Tímto způsobem hra získává na autentičnosti a humorném charakteru. 
+Atomic Legends je RPG hra zasazená do prostředí Šluknovského výběžku, inspirovaná hrami *Metin 2* a *Realm of the Mad God*. Nabízí hráčům boj s nestvůrami, postupné vylepšování postavy a prozkoumávání světa.  
 
-Hratelnost a mechanismy:
+#### Cíl:  
+- Hlavním cílem hry je nabídnout hráčům RPG zážitek zaměřený na boj, průzkum a vylepšování postavy, inspirovaný herními mechanismy *Metin 2*. Hra cílí na fanoušky RPG titulů, kteří ocení akční bojový systém a postupné posilování postavy. Je navržena primárně pro PC platformu, což umožňuje větší hloubku hratelnosti.  
 
-- Hlavními body hratelnosti budou boj s nepřáteli a nestvůrami a neustálé vylepšování a rozvoj postavy skrze získávání nových předmětů. Bojový systém bude podobný tomu ve hře Realm of the Mad God – rychlý a akční, s jednoduchým, ale efektivním grafickým stylem, což podpoří dynamiku hry. Hráč bude motivován k prozkoumávání herního světa a získávání silnějších předmětů, což posílí pocit postupu a posílení postavy.
+#### Žánr a zaměření:  
+- Hra spadá do žánru RPG, se zaměřením na boj, objevování a rozvoj postavy. Herní prostředí je inspirováno Šluknovským výběžkem a obsahuje postavy, které mohou hráčům připomínat jejich učitele, čímž hra získává na autentičnosti a humorném charakteru.  
 
-Grafické zpracování:
+#### Hratelnost a mechanismy:  
+- Klíčovými prvky hratelnosti jsou boj s nepřáteli a nestvůrami, neustálé vylepšování postavy a získávání nových předmětů. Bojový systém se inspiruje *Realm of the Mad God* – je rychlý, akční a podporuje dynamiku hry jednoduchým, ale efektivním grafickým stylem. Hráč je motivován k průzkumu herního světa a sbírání silnějších předmětů, což umocňuje pocit postupu a růstu postavy.  
 
-- Hra bude pravděpodobně vytvořena ve 2D nebo izometrickém pohledu, podle finálního rozhodnutí. Vizuální styl a zpracování budou podobné hře Realm of the Mad God, s důrazem na jednoduchost a přehlednost, která podpoří rychlé a strategické bojové souboje.
+#### Grafické zpracování:  
+- Hra bude pravděpodobně vytvořena ve 2D nebo izometrickém pohledu. Vizuální styl se inspiruje *Realm of the Mad God* s důrazem na jednoduchost a přehlednost, aby podpořil rychlé a strategické souboje.
 
-Technologie a nástroje
-Herní engine (GE):
+#### Herní engine:
 
-- Vývoj bude probíhat v Unity, který umožňuje efektivní vývoj RPG her s prvky boje a prozkoumávání, s podporou pro obě možnosti grafického zpracování (2D i izometrické).
+- Vývoj bude probíhat v Unity, který umožňuje efektivní vývoj RPG her s prvky boje a prozkoumávání, s podporou pro obě možnosti grafického zpracování.
 
-Databáze:
-
+#### Databáze:
 - MySQL bude použita pro správu herních dat včetně hráčských postav, NPC, úkolů a předmětů, což umožní snadnou práci s herními prvky a optimalizuje výkon. Data budou uložena lokálně, což usnadňuje snadnou správu a bezpečnost, protože hra bude určena pro jednoho hráče.
+ 
 
-### 2.	Grafika
-Grafická stránka hry bude vytvořena pomocí nástrojů Blender a Photoshop. Blender bude využit pro tvorbu případných 3D modelů nebo 2D izometrických prvků, zatímco Photoshop poslouží pro detailní úpravy textur, tvorbu ikon a dalších grafických prvků. Styl bude jednoduchý a přehledný, inspirovaný hrou Realm of the Mad God, s důrazem na barevnost a rozpoznatelnost jednotlivých prvků. Grafické prvky budou optimalizovány pro rychlou akci a strategické plánování během bojů.  
-### 3.	Zvuky
-Zvukové efekty a hudba budou zpracovány v nástroji Audacity, který umožňuje úpravu zvukových stop a mixování. Zvukový design bude zahrnovat atmosférickou hudbu pro průzkum herního světa, dynamické efekty pro bojové situace a jemné zvukové stopy, které podtrhnou specifickou atmosféru prostředí inspirovaného Šluknovským výběžkem. Cílem bude vytvořit poutavou zvukovou kulisu, která hráče vtáhne do herního světa a zvýší celkový zážitek.
-### 5. Hudba
-Pro inspiraci hudebních podkladů bylo použito umělé inteligence Suno.ai
+---
 
-### 6. Implementace
+### 2. Grafika  
 
-Vývoj nebyl nijak rozsáhlé rozplánován a převážně jsme pracovali na tom co nám přišlo v daný moment nejdůležitější nebo nejzajímavější.
-Postupovali jsme následovně:
-- vývojem hráče: získal základní vzhled a možnost se pohybovat.
-- Později bylo vytvořeno základní prostředí včetně stromů, rostlin, kopců a vznikl nástřel první lokace. 
-- následně přibily nepřátelé a bojový systém včetně schopností.
-- Závěrem jsme se zaměřili na UI jako například menu, gui hráče a jeho schopností a funkční sytém inventáře a ukládaní.
-- V neposlední řadě umělá inteligence nepřátel a zvuky s hudbou.
+Grafická stránka hry bude vytvořena pomocí nástrojů *Blender* a *Photoshop*. *Blender* bude využit pro tvorbu případných 3D modelů nebo 2D izometrických prvků, zatímco *Photoshop* poslouží pro detailní úpravy textur, tvorbu ikon a dalších grafických prvků. Styl bude jednoduchý a přehledný, inspirovaný hrou *Realm of the Mad God*, s důrazem na barevnost a rozpoznatelnost jednotlivých prvků. Grafika bude optimalizována pro rychlou akci a strategické plánování během bojů.  
 
- Postupný vovoj můžete vidět mezi [prototypy](https://github.com/Tekaruxd/Metin_3/tree/main/Prototypes). 
+---
 
-### 7. Propagace
+### 3. Zvuky a hudba  
 
-Jako propagaci jsme si připravili bannery, které si můžete prohlédnou na následujícím odkazu
+Zvukové efekty a hudba budou zpracovány v nástroji *Audacity*, který umožňuje úpravu zvukových stop a mixování. Zvukový design zahrne atmosférickou hudbu pro průzkum herního světa, dynamické efekty pro bojové situace a jemné zvukové prvky, které podtrhnou specifickou atmosféru prostředí inspirovaného Šluknovským výběžkem. Cílem je vytvořit poutavou zvukovou kulisu, která hráče vtáhne do hry a umocní celkový zážitek.  
 
-[Náhled propagace ]()
-### 8. Finální hra
-Prototypy i momentálně nejnovější verze je k dispozici ke stažení zdarma [Zde](https://github.com/Tekaruxd/Metin_3/tree/main/Prototypes) 
-### 9. Závěr
-*TODO*
-- realizace že to nelze udělat v tak malém počtu lidí
-- sžití se s Unity enginem a jeho prostředím
-- vyžití Version control
-- potencialní využití momentálních znalostí
-- 3D modely
+---
 
-## Na tomto projektu spolupracovali **David Pokorák** a **Daniel Záruba**
+### 4. Implementace  
+
+Vývoj nebyl detailně rozplánován – zaměřovali jsme se především na úkoly, které se nám v daný moment zdály nejdůležitější nebo nejzajímavější.  
+
+Postupovali jsme následovně:  
+- Vývoj hráče: získal základní vzhled a možnost pohybu.  
+- Vytvoření základního prostředí včetně stromů, rostlin a kopců – vznikl návrh první lokace.  
+- Přidání nepřátel a bojového systému včetně schopností.  
+- Implementace UI – menu, GUI hráče, systém schopností a funkční inventář s ukládáním.  
+- Vytvoření umělé inteligence nepřátel, zvukových efektů a hudby.  
+
+Postupný vývoj můžete sledovat mezi [prototypy](https://github.com/Tekaruxd/Metin_3/tree/main/Prototypes).  
+
+---
+
+### 5. Propagace  
+
+V rámci propagace jsme připravili bannery, které si můžete prohlédnout v [náhledu propagace]().  
+
+---
+
+### 6. Finální hra  
+
+Prototypy i nejnovější verze jsou k dispozici ke stažení zdarma [zde](https://github.com/Tekaruxd/Metin_3/tree/main/Prototypes).  
+
+Pokud vás zajímá pouze náhled, můžete si prohlédnout snímky přímo ze hry [zde](https://github.com/Tekaruxd/Metin_3/tree/main/preview).  
+
+---
+
+### 7. Závěr  
+
+Jednou z hlavních výzev, kterou jsme podcenili, byla náročnost projektu. Tvorba 3D modelů je časově náročná a vyžaduje specializovaného tvůrce. Pro dosažení lepšího výsledku by bylo lepší zapojit více lidí, aby se každý mohl zaměřit na konkrétní oblast.  
+
+Dalším složitým prvkem bylo seznámení se s *Unity Editor*, jeho knihovnami, zabudovanými funkcemi a jazykem *C#*, ve kterém jsou psány všechny skripty. Práce s *C#* byla přínosná zejména z hlediska objektově orientovaného programování.  
+
+Jednou z praktických dovedností, které jsme se naučili, bylo využití služby *Unity Version Control*, která usnadňuje spolupráci více lidí na jednom projektu a správu starších verzí.  
+
+Výstup projektu sice není tak propracovaný, jak jsme původně plánovali, ale přesto jsme s ním spokojeni. S ohledem na to, že jsme dva vývojáři s minimálními zkušenostmi, považujeme dosažený výsledek za uspokojivý. Pro vývojáře Davida je tento obor velice atraktivní a pravděpodobně se mu bude věnovat i v pracovním životě.  
+
+---
+
+## Na projektu spolupracovali **David Pokorák** a **Daniel Záruba**  
+
