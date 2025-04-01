@@ -56,7 +56,7 @@ Postupný vývoj můžete sledovat mezi [prototypy](https://github.com/Tekaruxd/
 
 ### 5. Propagace  
 
-V rámci propagace jsme připravili bannery, které si můžete prohlédnout v [náhledu propagace]().  
+V rámci propagace jsme připravili bannery, které si můžete prohlédnout v [náhledu propagace](https://www.figma.com/design/yYxb6MuWFRW4ezekh33mj5/Atomic-Legends?node-id=0-1&t=gYpNyUQ6Ygkzo2wH-1).  
 
 ---
 
