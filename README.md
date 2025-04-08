@@ -1,6 +1,8 @@
 
 # Atomic Legends  
 
+## **David Pokorák** a **Daniel Záruba**
+
 ### 1. Základní koncepce  
 
 Atomic Legends je RPG hra zasazená do prostředí Šluknovského výběžku, inspirovaná hrami *Metin 2* a *Realm of the Mad God*. Nabízí hráčům boj s nestvůrami, postupné vylepšování postavy a prozkoumávání světa.  
@@ -80,5 +82,5 @@ Výstup projektu sice není tak propracovaný, jak jsme původně plánovali, al
 
 ---
 
-## Na projektu spolupracovali **David Pokorák** a **Daniel Záruba**  
+  
 
